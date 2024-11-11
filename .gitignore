@@ -1,0 +1,9 @@
+package.json
+pnpm-lock.yaml
+.idea
+counter
+node_modules
+my-vue-app/.gitignore
+my-vue-app/package.json
+my-vue-app/pnpm-lock.yaml
+my-vue-app/public
